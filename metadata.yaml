@@ -1,0 +1,23 @@
+_repo: A-Manual-of-Italian-Literature_53084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cliffe, Francis Henry
+    gutenberg_agent_id: '47176'
+    url: http://www.gutenberg.org/2009/agents/47176
+description: ''
+gutenberg_issued: '2016-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53084'
+  lccn: '15016821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian literature -- History and criticism'
+- GITenberg
+title: A Manual of Italian Literature
+url: http://www.gutenberg.org/ebooks/53084
