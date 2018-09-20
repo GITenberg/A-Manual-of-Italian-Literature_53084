@@ -1,11 +1,16 @@
 _repo: A-Manual-of-Italian-Literature_53084
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53084-h/images/cover.jpg
 creator:
   author:
     agent_name: Cliffe, Francis Henry
     gutenberg_agent_id: '47176'
     url: http://www.gutenberg.org/2009/agents/47176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53084#A-Manual-of-Italian-Literature
 gutenberg_issued: '2016-09-18'
 gutenberg_type: Text
 identifiers:
